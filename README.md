@@ -20,6 +20,9 @@
 
 ![localFace6](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/deep.png)
 
+<img src="https://github.com/AiArt-HDU/MATEBIT/tree/main/images/deep.png" width="400"/>
+
+
 - **More Results:**
 
 We offer more results here: https://drive.google.com/drive/folders/1t2U82eDvqd1-xKigBs_GnnVRemdoYOpR
