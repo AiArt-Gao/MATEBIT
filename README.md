@@ -9,17 +9,17 @@
 
 - **same results:**
 
-![localFace1](https://github.com/AiArt-HDU/MATEBIT/tree/main/images/Metfaces.png)
+![localFace1](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/Metfaces.png)
 
-![localFace2](https://github.com/AiArt-HDU/MATEBIT/tree/main/images/celeba.png)
+![localFace2](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/celeba.png)
 
-![localFace3](https://github.com/AiArt-HDU/MATEBIT/tree/main/images/aahq.png)
+![localFace3](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/aahq.png)
 
-![localFace4](https://github.com/AiArt-HDU/MATEBIT/tree/main/images/dishini.png)
+![localFace4](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/dishini.png)
 
-![localFace5](https://github.com/AiArt-HDU/MATEBIT/tree/main/images/uk.png)
+![localFace5](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/uk.png)
 
-![localFace6](https://github.com/AiArt-HDU/MATEBIT/tree/main/images/deep.png)
+![localFace6](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/deep.png)
 
 - **More Results:**
 
