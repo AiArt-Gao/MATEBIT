@@ -7,7 +7,6 @@
 
 ## Sample Results
 
-- **same results:**
 
 ![localFace1](https://github.com/AiArt-HDU/MATEBIT/blob/main/images/Metfaces.png)
 
