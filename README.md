@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CVPR2023 “Masked and Adaptive Transformer for Exemplar Based Image Translation" (MATEBIT)
 
 ## Abstract
