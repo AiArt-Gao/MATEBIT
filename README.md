@@ -91,7 +91,7 @@ We offer more results here: [Google Drive](https://drive.google.com/drive/folder
 
 - **Brush painting, traditional art painting**
 
-  We obtained a dataset of 915 traditional Chinese brush paintings with a resolution of 512 size from the Internet. https://drive.google.com/file/d/1sBH59nIzZaXik9R1EOzrFCgFNXdNivit/view
+  We obtained a dataset of 915 traditional Chinese brush paintings with a resolution of 512 size from the Internet. [Google Drive](https://drive.google.com/file/d/1sBH59nIzZaXik9R1EOzrFCgFNXdNivit/view)
 
   [retrieve similar reference image](https://github.com/microsoft/CoCosNet/issues/10), After making the labels, you can train the rest of the dataset.
 
