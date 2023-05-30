@@ -1,5 +1,5 @@
 
-# CVPR2023 “Masked and Adaptive Transformer for Exemplar Based Image Translation" (MATEBIT)
+# [CVPR2023] Masked and Adaptive Transformer for Exemplar Based Image Translation (MATEBIT)
 
 ## Abstract
 
@@ -7,7 +7,7 @@
 
 ## Paper Information
 
-Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *IEEE CVPR*, accepted, 2023. [[paper_arxiv\]](https://arxiv.org/abs/2303.17123) ~ [[project\]](https://github.com/AiArt-HDU/MATEBIT)
+Chang Jiang, **Fei Gao***, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023, pp. 22418-22427. [[paper_cvpr]](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html) ~  [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
 
 
 ## Sample Results
