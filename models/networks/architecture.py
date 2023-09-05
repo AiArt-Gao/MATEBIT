@@ -82,7 +82,7 @@ class AdaIN(nn.Module):
         x_mean = feat_x.mean(dim=2).view(b, c, 1, 1)
         varx = torch.clamp((feat_x * feat_x).mean(dim=2).view(b, c, 1, 1) - x_mean * x_mean, min=0)
         varx = torch.rsqrt(varx + self.epsilon)
-        x = (x - x_mean) * varx
+        x = (x - x_mean) / varx
 
         return x * y_var + y_mean
 
