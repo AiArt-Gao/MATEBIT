@@ -1,6 +1,11 @@
 
 # [CVPR2023] Masked and Adaptive Transformer for Exemplar Based Image Translation (MATEBIT)
 
+[![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/AiArt-HDU/MATEBIT/)
+[![arXiv](https://img.shields.io/badge/arXiv-2303.17123-b31b1b.svg)](https://arxiv.org/abs/2303.17123)
+[![CVPR](https://img.shields.io/badge/CVPR-CVF-blue)](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html)
+[![Page Views Count](https://badges.toozhao.com/badges/01HK9CDZTS7T8NVHKHGJB3QZSZ/green.svg)](https://badges.toozhao.com/stats/01HK9CDZTS7T8NVHKHGJB3QZSZ "Get your own page views count badge on badges.toozhao.com")
+
 - 利用掩码自适应注意力机制，构建可靠的无监督、跨模态语义匹配关系，进而用于样例引导式图像翻译，提升内容图像与样例图像不同区域间的匹配关系；
 - 利用质量-风格联合对比学习，学习高质量的风格表征，用于全局风格调制；
 - 在油画、国画、虚拟试衣等任务中，显著提升了生成质量。
@@ -11,7 +16,10 @@ We present a novel framework for exemplar based image translation. Recent advanc
 
 ## Paper Information
 
-Chang Jiang, **Fei Gao***, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023, pp. 22418-22427. [[paper_cvpr]](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html) ~  [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
+Chang Jiang, **Fei Gao***, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023, pp. 22418-22427. 
+[![Project](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/AiArt-HDU/MATEBIT/)
+[![arXiv](https://img.shields.io/badge/arXiv-2303.17123-b31b1b.svg)](https://arxiv.org/abs/2303.17123)
+[![CVPR](https://img.shields.io/badge/CVPR-CVF-blue)](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html)
 
 
 ## Sample Results
